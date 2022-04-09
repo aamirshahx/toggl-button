@@ -94,7 +94,7 @@
     "keycode": "2.2.0",
     "lodash.map": "4.6.0",
     "lodash.reduce": "4.6.0",
-    "moment": "2.24.0",
+    "moment": "2.29.2",
     "nanoid": "1.2.6",
     "prop-types": "15.7.2",
     "react": "16.8.4",
